@@ -204,7 +204,6 @@ The Wokwi project configuration and ESP-IDF environment must match the firmware 
 
 Embedded Systems Project
 
-GitHub: [Add your GitHub profile link]
 
 ## License
 
